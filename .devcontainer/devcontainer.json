@@ -1,0 +1,28 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/debian
+{
+	"name": "project-bespin-dev",
+	"image": "ghcr.io/raykao/project-bespin/devcontainer-base:latest",
+	// "features": {
+	// 	"ghcr.io/devcontainers/features/python:1": {
+	// 		"installTools": true,
+	// 		"version": "3.11"
+	// 	}
+	// },
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	"forwardPorts": [5173],
+
+	// Configure tool-specific properties.
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"github.copilot",
+				"github.copilot-chat"
+			]
+		}
+	}
+
+	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+	// "remoteUser": "root"
+}
