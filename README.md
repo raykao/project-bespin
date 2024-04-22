@@ -5,7 +5,7 @@
 
 ![concept art](./img/concept.jpeg)
 
-A top-down 2D/2.5D "Platform Engineering/Cloud Management Tool", designed to feel like a game and make Cloud Operations fun and arguably easier to manage.
+A top-down 2D/2.5D/Isometric "Platform Engineering/Cloud Management Tool", designed to feel like a game and make Cloud Operations fun and arguably easier to manage.
 
 ## High Level Goals
 - Make the experience of viewing/creating/managing cloud environments "fun and easy"
