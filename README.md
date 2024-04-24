@@ -32,7 +32,8 @@ Short list:
 
 | Framework | Language   | Platform |
 |-----------|------------|----------|
-| Unity     | C#         | Desktop  |
+| GODOT     | C#         | xplat    |
+| Unity     | C#         | xplat    |
 | pygame    | python     | Desktop  |
 | phaser    | javascript | web      |
 
